@@ -19,7 +19,7 @@ The goal is to help the business make data-driven decisions to **increase sales 
 
 ##  Dashboard Preview
 
-![Dashboard](vrinda-store-annual-report.png)
+![Dashboard](Vrinda-Store-Annual-Report.png)
 
 ---
 
